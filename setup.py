@@ -6,7 +6,7 @@ if __name__== '__main__':
           description='Utilities for visualizing dna sequences',
           long_description="""Utilities for visualizing DNA sequences""",
           url='https://github.com/kundajelab/vizsequence',
-          version='0.1.0.1',
+          version='0.1.1.0',
           packages=find_packages(),
           setup_requires=[],
           install_requires=['numpy>=1.9', 'matplotlib>=2.2.2'],
